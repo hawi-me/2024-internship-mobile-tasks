@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Running Shoes",
+        "description": "Comfortable and lightweight running shoes designed for all-day wear.",
+        "price": 120,
+        "imageUrl": "https://example.com/images/running_shoes.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Smartphone",
+        "description": "Latest smartphone with high-resolution display and powerful processor.",
+        "price": 999,
+        "imageUrl": "https://example.com/images/smartphone.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Wireless Headphones",
+        "description": "Noise-cancelling wireless headphones with long battery life.",
+        "price": 199,
+        "imageUrl": "https://example.com/images/wireless_headphones.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Leather Wallet",
+        "description": "Stylish leather wallet with multiple card slots and coin pocket.",
+        "price": 49,
+        "imageUrl": "https://example.com/images/leather_wallet.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Laptop",
+        "description": "High-performance laptop with 16GB RAM and 512GB SSD storage.",
+        "price": 1299,
+        "imageUrl": "https://example.com/images/laptop.jpg"
+      }
+    ]
+  }
+  
