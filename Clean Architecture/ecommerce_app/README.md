@@ -23,15 +23,23 @@ Product Entity
 Defines a Product entity with the following properties:
 
 id: Unique identifier for the product.
+
 name: Name of the product.
+
 description: Description of the product.
+
 price: Price of the product.
+
 imageUrl: URL of the product's image.
+
 Use Cases
+
 Defined use cases for each of the CRUD operations:
 
-InsertProduct: Adds a new product. = UpdateProduct: Updates an existing product.
+InsertProduct: Adds a new product. = UpdateProduct: Updates an existing product
+.
 DeleteProduct: Removes a product.
+
 GetProduct: Retrieves the details of a product.
 Repositories
 ProductRepository
@@ -62,6 +70,7 @@ Use Case Implementation:
 ✅ Accurate implementation of the DeleteProductUsecase use case class with proper handling of existing product deletion.
 
 Task 10: Data Overview Layer
+
 
 ✅ Step 1: Folder Setup(1 point) Organize the project structure according to Clean Architecture principles. Create the following folders in the lib directory: core: Contains the shared core components, entities, and error handling logic. features: Includes feature-specific modules. features/product: This will be the main module for the Ecommerce feature. test: Contains all the unit and widget tests.
 
